@@ -1,0 +1,15 @@
+2023-12-14 16:28:26 DATA {'input_rate': 3, 'model': 'yolov5m'}
+2023-12-14 16:28:26 INFO {'Component': 'Analyzer', 'Action': 'Performing the analysis'}
+2023-12-14 16:28:27 DATA {'Finished Processing File': 12}
+2023-12-14 16:28:27 DATA {'Processing File': 13}
+2023-12-14 16:28:27 DATA {'User Request Time': 1702551471.9366462, 'model': 'yolov5m'}
+2023-12-14 16:28:27 DATA {'input_rate': 3, 'model': 'yolov5m'}
+2023-12-14 16:28:27 INFO {'Component': 'Analyzer', 'Action': 'Performing the analysis'}
+2023-12-14 16:28:28 DATA {'input_rate': 3, 'model': 'yolov5m'}
+2023-12-14 16:28:28 INFO {'Component': 'Analyzer', 'Action': 'Performing the analysis'}
+2023-12-14 16:28:29 DATA {'input_rate': 5, 'model': 'yolov5m'}
+2023-12-14 16:28:29 INFO {'Component': 'Analyzer', 'Action': 'Performing the analysis'}
+2023-12-14 16:28:29 DATA {'Finished Processing File': 13}
+2023-12-14 16:28:29 DATA {'Processing File': 14}
+2023-12-14 16:28:29 DATA {'User Request Time': 1702551472.317645, 'model': 'yolov5m'}
+2023-12-14 16:28:37 DEBUG Logger Initialized
